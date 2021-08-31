@@ -51,14 +51,16 @@
 
 
 # Основные категории.
-* Обработка дерева в древние времена.
-* Woodworking in ancient world
-* Изготовление инструментов из дерева.
-* Tool making (woodworking)
-* Выживание в условиях недостатка или отсутствия электричества.
-* off the grid survive
-* Изготовление Механических музыкальных инструментов
-* Mechanical Musical instruments
+* Машиностроение: двигатели, трансмиссия, генераторы, ветряки, водное колесо и т.д. мельницы
+* Какая-то модель электродвигателя и учебные модели демонстрирующие физические принципы электромагнетизма (Фарадей, Максвелл)
+* Иготовление инструментов из дерева. Tool making (woodworking)
+* Изготовление инструментов из металла. Токарный станок.
+* Обработка дерева в древние времена. Woodworking in ancient world
+* Изготовление одежды
+* Выживание в условиях недостатка или отсутствия электричества. off the grid survive
+* Изготовление Механических музыкальных инструментов. Mechanical Musical instruments
+* счеты, механические калькуляторы, прообразы компьютеров
+* Механические модели различных устройств в миниатюре распечатанные на 3д принтере.
 
 # Назначение скриптов.
 pages_preview.py - Скрипт обходит дерево проекта выбирает файлы pdf, epub <br/>
@@ -71,9 +73,6 @@ make_list.py - обходит каталог электронной библио
 создает список pdf и epub документов <br/>
 
 # Видеоматериалы
-Alternative Living
-https://youtu.be/1qFUUTARun0
-
 WoodlandsTV канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
 созданию инструментов и т.д.<br/>
 https://www.youtube.com/watch?v=aI8VWjpKBlA
@@ -89,6 +88,12 @@ https://youtu.be/dm7SSypMlzc?list=PLLByvpge6tCyN1QndbxJLfSuy1BpjqO4W
 ## Детали механизмов из металла
 Изготовление шестеренки. Mehamozg <br/>
 https://www.youtube.com/watch?v=59NucJ8TtqQ
+
+## Музыкальные инструменты
+Barrel Organs Beware - Other Colour Pics Share This Title (1960)
+https://youtu.be/dHcmIcP7ouo?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE
+Street Organ how it works
+https://youtu.be/DSNAypbWe0g?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE
 
 
 # Список книг (август 2021) 
