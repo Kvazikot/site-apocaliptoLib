@@ -123,3 +123,15 @@ pages_preview.py - Скрипт обходит дерево проекта вы�
 64. Build_Your_Own_Metal_Working_Shop_from_Scrap1.docx
 65. Znanie_o_tom,_kak_perestroit'_nash_mir_s_nulia,_Dartnell,_L'iuis_(z-lib.org).docx
 66. Znanie_o_tom,_kak_perestroit'_nash_mir_s_nulia,_Dartnell,_L'iuis_(z-lib.org).docx
+
+# Видеоматериалы
+Alternative Living
+https://youtu.be/1qFUUTARun0
+
+WoodlandsTV канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
+созданию инструментов и т.д.
+https://www.youtube.com/watch?v=aI8VWjpKBlA
+
+
+
+
