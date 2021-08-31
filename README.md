@@ -69,22 +69,21 @@ Alternative Living
 https://youtu.be/1qFUUTARun0
 
 WoodlandsTV канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
-созданию инструментов и т.д.
+созданию инструментов и т.д.<br/>
 https://www.youtube.com/watch?v=aI8VWjpKBlA
 
 ## Механизмы и детали механизмов и станков из дерева.
-Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса
-сделанные из дерева.
-Matthias Wandel
-https://woodgears.ca/
-https://woodgears.ca/toys/forklift.html
-https://woodgears.ca/dust_collector/blower_build.html
+Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса сделанные из дерева.
+Matthias Wandel <br/>
+https://woodgears.ca/ <br/>
+https://woodgears.ca/toys/forklift.html <br/>
+https://woodgears.ca/dust_collector/blower_build.html <br/>
 
-DIY 2-х скоростная коробка передач из фанеры
+DIY 2-х скоростная коробка передач из фанеры <br/>
 https://youtu.be/dm7SSypMlzc?list=PLLByvpge6tCyN1QndbxJLfSuy1BpjqO4W
 
 ## Детали механизмов из металла
-Изготовление шестеренки. Mehamozg
+Изготовление шестеренки. Mehamozg <br/>
 https://www.youtube.com/watch?v=59NucJ8TtqQ
 
 
