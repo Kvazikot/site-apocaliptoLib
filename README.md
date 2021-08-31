@@ -53,8 +53,12 @@
 * Mechanical Musical instruments
 
 # Назначение скриптов.
-pages_preview.py - Скрипт обходит дерево проекта выбирает файлы pdf, epub 
-и сохраняет в каталоге images с латинизированными названиями каталогов/
+pages_preview.py - Скрипт обходит дерево проекта выбирает файлы pdf, epub <br/>
+и сохраняет в каталоге images с латинизированными названиями каталогов/<br/>
+pages_preview.py - обходит каталог электронной библиотеки,<br/>
+создает список pdf и epub документов, сохраняет отдельные страницы в каталог images <br/>
+Например<br/>
+images/{transliterated_filename.pdf}<br/>
 
 # Список книг (август 2021) 
 1. Origins_and_Development_of_Musical_Instruments_by_Jeremy_Montagu_(z-lib.org).pdf
