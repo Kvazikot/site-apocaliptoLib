@@ -81,8 +81,6 @@ https://www.youtube.com/watch?v=aI8VWjpKBlA
 ## Механизмы и детали механизмов и станков из дерева.
 Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса сделанные из дерева.
 Matthias Wandel <br/>
-https://woodgears.ca/ <br/>
-https://woodgears.ca/toys/forklift.html <br/>
 https://woodgears.ca/dust_collector/blower_build.html <br/>
 
 DIY 2-х скоростная коробка передач из фанеры <br/>
