@@ -62,6 +62,26 @@ images/{transliterated_filename.pdf}<br/>
 make_list.py - обходит каталог электронной библиотеки,<br/>
 создает список pdf и epub документов <br/>
 
+# Видеоматериалы
+Alternative Living
+https://youtu.be/1qFUUTARun0
+
+WoodlandsTV канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
+созданию инструментов и т.д.
+https://www.youtube.com/watch?v=aI8VWjpKBlA
+
+## Механизмы и детали механизмов и станков из дерева.
+Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса
+сделанные из дерева.
+Matthias Wandel
+https://woodgears.ca/
+https://woodgears.ca/toys/forklift.html
+https://woodgears.ca/dust_collector/blower_build.html
+
+DIY 2-х скоростная коробка передач из фанеры
+https://youtu.be/dm7SSypMlzc?list=PLLByvpge6tCyN1QndbxJLfSuy1BpjqO4W
+
+
 # Список книг (август 2021) 
 1. Origins_and_Development_of_Musical_Instruments_by_Jeremy_Montagu_(z-lib.org).pdf
 2. The_knowledge_how_to_rebuild_our_world_from_scratch_by_Dartnell,_Lewis_(z-lib.org).epub
@@ -129,26 +149,5 @@ make_list.py - обходит каталог электронной библио
 64. Build_Your_Own_Metal_Working_Shop_from_Scrap1.docx
 65. Znanie_o_tom,_kak_perestroit'_nash_mir_s_nulia,_Dartnell,_L'iuis_(z-lib.org).docx
 66. Znanie_o_tom,_kak_perestroit'_nash_mir_s_nulia,_Dartnell,_L'iuis_(z-lib.org).docx
-
-# Видеоматериалы
-Alternative Living
-https://youtu.be/1qFUUTARun0
-
-WoodlandsTV канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
-созданию инструментов и т.д.
-https://www.youtube.com/watch?v=aI8VWjpKBlA
-
-# Механизмы и детали механизмов и станков из дерева.
-Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса
-сделанные из дерева.
-Matthias Wandel
-https://woodgears.ca/
-https://woodgears.ca/toys/forklift.html
-https://woodgears.ca/dust_collector/blower_build.html
-
-DIY 2-х скоростная коробка передач из фанеры
-https://youtu.be/dm7SSypMlzc?list=PLLByvpge6tCyN1QndbxJLfSuy1BpjqO4W
-
-
 
 
