@@ -83,6 +83,10 @@ https://woodgears.ca/dust_collector/blower_build.html
 DIY 2-х скоростная коробка передач из фанеры
 https://youtu.be/dm7SSypMlzc?list=PLLByvpge6tCyN1QndbxJLfSuy1BpjqO4W
 
+## Детали механизмов из металла
+Изготовление шестеренки. Mehamozg
+https://www.youtube.com/watch?v=59NucJ8TtqQ
+
 
 # Список книг (август 2021) 
 1. Origins_and_Development_of_Musical_Instruments_by_Jeremy_Montagu_(z-lib.org).pdf
