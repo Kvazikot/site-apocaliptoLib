@@ -47,6 +47,7 @@
 В проработке холистической концепции, противопоставляющей редукционисткому восприятию реальности.
 В то же время я стараюсь работать над мелкими деталями.
 
+
 # Статистика.
 На данный момент в apocaliptoLIB: 85 книг
 
@@ -55,6 +56,27 @@
 чтобы пользователи могли общаться и заливать в библиотеку свои книги.
 Необходимо завести форум типа phpBB только работающий на гугле. 
 Желательно развивать навыки критического мышления и анализа книг, не очень характерного даже в среде ученых с докторскими степенями.
+
+# Второй этап разработки. Принцип голографии. Преодоление информационного парадокса черной дыры
+В apocaliptoLIB необходимо сделать что-то наподобии нейроэволюции постов,
+чтобы информация голографически распространялась по всемы гугл дискам.
+Если у вас отвалится один гугл диск, то вы получите что-то вроде этого.
+
+original_text = "The chords sounded smooth and nondissonant but \
+textange and somewhat eerie. The effect was so different \
+from the tempered scale that there was no tendency to \
+judge in-tuneness or out-of-tuneness. It seemed like a \
+peek into a new and unfamiliar musical world, in which \
+none of the old rules applied, and the new ones, if any, \
+were undiscovered. F. H. Slaymaker [B: 176]"
+
+survived_text = "The cogrds sotnsed smooth and nondpssonant but toxedoge and sommwfat eerie. The ecfect was so diugerent from tde temmered scale tnat thtre was no tendgncy to judge it-tuncnkss or oum-oq-tuneresu. It senmed like a peek into a ngw and ucfumiliar mhsical wotld, in which none of the old rules applird, and the new onbs, if aey, were unkiscovered. F. H. Slaymafer [l: 176]"
+
+Если можно так выразиться это называется децентрализованная анонимизированная голографическая 
+база данных необходимая для выживания цивилизации.
+Восстановление информации возможно как с помощью людей так и роботов.
+Мы надеемся на то что будут дружелюбные роботы по контексту всего текста или ветки обсуждения на форуме.
+Каждый житель планеты Земля может захотеть выделить хотябы 0.01% своего диска на благие цели.
 
 # Дизайн библиотеки.
 Библиотека должна предоставлять доступ к книге прямо в онлайне.
