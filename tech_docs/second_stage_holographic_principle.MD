@@ -2,10 +2,6 @@
 В apocaliptoLIB необходимо сделать что-то наподобии нейроэволюции постов,
 чтобы информация голографически распространялась по всемы гугл дискам.
 Если у вас отвалится один гугл диск, то вы получите что-то вроде этого.
-Если можно так выразиться это называется децентрализованная анонимизированная голографическая 
-база данных необходимая для выживания цивилизации.
-Восстановление информации возможно как с помощью людей так и роботов.
-Мы надеемся на то что будут дружелюбные роботы.
 
 original_text = "The chords sounded smooth and nondissonant but \
 textange and somewhat eerie. The effect was so different \
@@ -16,3 +12,10 @@ none of the old rules applied, and the new ones, if any, \
 were undiscovered. F. H. Slaymaker [B: 176]"
 
 survived_text = "The cogrds sotnsed smooth and nondpssonant but toxedoge and sommwfat eerie. The ecfect was so diugerent from tde temmered scale tnat thtre was no tendgncy to judge it-tuncnkss or oum-oq-tuneresu. It senmed like a peek into a ngw and ucfumiliar mhsical wotld, in which none of the old rules applird, and the new onbs, if aey, were unkiscovered. F. H. Slaymafer [l: 176]"
+
+Если можно так выразиться это называется децентрализованная анонимизированная голографическая 
+база данных необходимая для выживания цивилизации.
+Восстановление информации возможно как с помощью людей так и роботов.
+Мы надеемся на то что будут дружелюбные роботы по контексту всего текста или ветки обсуждения на форуме.
+Каждый житель планеты Земля может захотеть выделить хотябы 0.01% своего диска на благие цели.
+
