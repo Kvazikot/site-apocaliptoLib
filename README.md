@@ -72,6 +72,8 @@ were undiscovered. F. H. Slaymaker [B: 176]"
 
 survived_text = "The cogrds sotnsed smooth and nondpssonant but toxedoge and sommwfat eerie. The ecfect was so diugerent from tde temmered scale tnat thtre was no tendgncy to judge it-tuncnkss or oum-oq-tuneresu. It senmed like a peek into a ngw and ucfumiliar mhsical wotld, in which none of the old rules applird, and the new onbs, if aey, were unkiscovered. F. H. Slaymafer [l: 176]"
 
+Соответсвенно с картинками из книг (jpeg файлами) надо сделать что-то наподобии, благо там можно пропускать пиксели, а точнее блоки DCT. Или уменьшать число уровней квантования коэффициентов DCT. В другом моем проекте QuasiCode я попробую записывать произвольную информацию внутри обычного видео в формате h264 которое можно распространять через youtube и торрент сети. Это будет работать наподобии телетекста в старом телевидении, но с большей пропускной способностью. QuasiCode должен быть устойчив к пережатиям видео.
+
 Если можно так выразиться это называется децентрализованная анонимизированная голографическая 
 база данных необходимая для выживания цивилизации.
 Восстановление информации возможно как с помощью людей так и роботов.
