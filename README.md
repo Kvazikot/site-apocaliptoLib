@@ -128,6 +128,7 @@ survived_text = "The cogrds sotnsed smooth and nondpssonant but toxedoge and som
 * Изготовление инструментов из металла. Токарный станок.
 * Обработка дерева в древние времена. Woodworking in ancient world
 * Изготовление одежды
+* Изготовление печатного пресса
 * Выживание в условиях недостатка или отсутствия электричества. off the grid survive
 * Изготовление Механических музыкальных инструментов. Mechanical Musical instruments
 * счеты, механические калькуляторы, прообразы компьютеров
