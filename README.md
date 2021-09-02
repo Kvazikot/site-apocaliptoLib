@@ -127,6 +127,10 @@ WoodlandsTV канал археологов восстанавливающих �
 созданию инструментов и т.д.<br/>
 https://www.youtube.com/watch?v=aI8VWjpKBlA
 
+## Выживание off the grid в лесу
+Advoko MAKES 
+https://www.youtube.com/watch?v=war9v2DxMs4
+
 ## Механизмы и детали механизмов и станков из дерева.
 Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса сделанные из дерева.
 Matthias Wandel <br/>
@@ -144,6 +148,7 @@ Barrel Organs Beware - Other Colour Pics Share This Title (1960)
 https://youtu.be/dHcmIcP7ouo?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE
 Street Organ how it works
 https://youtu.be/DSNAypbWe0g?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE
+
 
 
 # Список книг (август 2021) 
