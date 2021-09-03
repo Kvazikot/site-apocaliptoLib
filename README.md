@@ -181,6 +181,8 @@ make_list.py - обходит каталог электронной библио
 Blog Archive for the ‘Manual For Civilization’ Category<br/>
 https://blog.longnow.org/category/manual-for-civilization/<br/>
 https://blog.longnow.org/category/long-term-thinking/<br/>
+How Can We Create a Manual For Civilization?
+https://blog.longnow.org/02017/06/07/how-can-we-create-a-manual-for-civilization/<br/>
 
 # Видеоматериалы и другие линки
 
