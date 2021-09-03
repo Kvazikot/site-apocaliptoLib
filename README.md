@@ -179,8 +179,8 @@ images/{transliterated_filename.pdf}<br/>
 make_list.py - обходит каталог электронной библиотеки,<br/>
 создает список pdf и epub документов <br/>
 
-# Пример сайта на который apocaliptoLIB должно ориентироваться 
-Blog Archive for the ‘Manual For Civilization’ Category
+# Сайты уже собравшие достаточно знания (~10000 книг) для перезапуска цивилизации 
+Blog Archive for the ‘Manual For Civilization’ Category<br/>
 https://blog.longnow.org/category/manual-for-civilization/
 
 # Видеоматериалы и другие линки
