@@ -179,7 +179,12 @@ images/{transliterated_filename.pdf}<br/>
 make_list.py - обходит каталог электронной библиотеки,<br/>
 создает список pdf и epub документов <br/>
 
-# Видеоматериалы
+# Пример сайта на который apocaliptoLIB должно ориентироваться 
+Blog Archive for the ‘Manual For Civilization’ Category
+https://blog.longnow.org/category/manual-for-civilization/
+
+# Видеоматериалы и другие линки
+
 WoodlandsTV канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
 созданию инструментов и т.д.<br/>
 https://www.youtube.com/watch?v=aI8VWjpKBlA
