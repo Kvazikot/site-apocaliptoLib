@@ -187,6 +187,43 @@ https://blog.longnow.org/category/long-term-thinking/<br/>
 [How Can We Create a Manual For Civilization?](https://blog.longnow.org/02017/06/07/how-can-we-create-a-manual-for-civilization/)
 <br/>
 
+Projects that inspired the Manual For Civilization:
+
+The Rosetta Project: A multi-millennial micro-etched disk with a record of thousands of the world’s languages.<br/>
+Westinghouse Time Capsules: Two time capsules (they actually coined the term for this project) by Westinghouse buried at Worlds Fair sites, one in 01939 and the other 01965 to be recovered in 5000 years.  They also did the very smart thing of making a “Book of Record” and an above ground duplicate of the contents on display.
+The Human Document Project: A German project to create a record of humanity that will last one million years.<br/>
+Crypt of Civilization: An airtight chamber located at Oglethorpe University in Atlanta, Georgia. The crypt consists of preserved artifacts scheduled to be opened in the year 8113 AD.<br/>
+The Voyager Record: The Voyager Golden Records are phonograph records that were included aboard both Voyager spacecraft, which were launched in 1977. They contain sounds and images selected to portray the diversity of life and culture on Earth, and are intended for any intelligent extraterrestrial life form, or far future humans, who may find them.<br/>
+Georgia Guidestones: The four granite Guidestones are covered in inscriptions written in 8 major languages that describe the tenets of their imagined Age of Reason.
+Doomsday Chests by Noah Raford<br/>
+The Forever Book an idea by Kevin Kelly<br/>
+Global Village Construction Set<br/>
+“History of Humanity” project<br/>
+The Library of Utility<br/>
+The Memory of Mankind project<br/>
+The Great Pyramid project<br/>
+Digital Clay Tablets<br/>
+Arnano sapphire and glass data storage<br/>
+Content that has been discussed to be used for these projects:<br/>
+<br/>
+The Gingery books are great first pass on how to re-start manufacturing technology<br/>
+wikiHow has a lot of great info and it is continuously updated.  The entry on how to deliver a baby seems like a particularly handy one…
+The Foxfire Books on homespun technology seem to have a slightly less industrial take than the Gingery books, and are pretty comprehensive
+The Let’s Say You’ve Gone Back in Time poster to help you restart civilization by Ryan North the creator of the awesome Dinosaur Comics
+The Way Things Work by David Macaulay.  This is a fantastic book, but it might leave people thinking that all technology is powered by woolly mammoths and angels.
+The Harvard Classics originally known as Dr. Eliot’s Five Foot Shelf are often referred to as an item that should go into a record like this.
+Encyclopedia Britannica People often suggest using the latest version that is now out of copyright.  I believe this is the 13th edition but so far I have only found digital copies of the 11th.<br/>
+The Domesday book: The Domesday Book is the record of the great survey of England completed in 1086.  It would be interesting to find surveys and census’ from around the world<br/>
+The Mormon Genealogical Data:  This is also held in a bunker outside Salt Lake City Utah, but it might be nice to have a record of gene lines for a future civilization to better understand its past.<br/>
+The Top 100 Project Gutenberg books: If you are concerned with archiving works in copyright this is a great source to find texts that are free to use.
+The Internet Archive: An archive of complete snapshots of the web as well as thousands of books and videos.  Incidentally you would also get all of our scanned page content from the Rosetta Project with this.<br/>
+Wikipedia: The text only version of this is actually not that large, and could be archived fairly easily.  Also one of the few sources that is beginning to get filled out in many languages and is also not held under a copyright.
+How to field dress a deer: PDF pocket version from Penn State College of Agricultural Science (living in Northern California, I think this one will be especially handy).<br/>
+The Toaster Project<br/>
+The Panlex Project of cross linked language dictionaries<br/>
+The Survivor Library<br/>
+ 
+
 # Видеоматериалы и другие линки
 
 [WoodlandsTV](https://www.youtube.com/watch?v=aI8VWjpKBlA) канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
