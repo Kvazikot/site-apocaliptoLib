@@ -182,6 +182,7 @@ make_list.py - обходит каталог электронной библио
 # Сайты уже собравшие достаточно знания (~10000 книг) для перезапуска цивилизации 
 Blog Archive for the ‘Manual For Civilization’ Category<br/>
 https://blog.longnow.org/category/manual-for-civilization/
+https://blog.longnow.org/category/long-term-thinking/
 
 # Видеоматериалы и другие линки
 
