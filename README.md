@@ -178,41 +178,34 @@ make_list.py - обходит каталог электронной библио
 создает список pdf и epub документов <br/>
 
 # Сайты уже собравшие достаточно знания (~10000 книг) для перезапуска цивилизации 
-Blog Archive for the ‘Manual For Civilization’ Category<br/>
-https://blog.longnow.org/category/manual-for-civilization/<br/>
+[Blog Archive for the ‘Manual For Civilization’ Category](https://blog.longnow.org/category/manual-for-civilization/)<br/>
+
 https://blog.longnow.org/category/long-term-thinking/<br/>
-How Can We Create a Manual For Civilization?
-https://blog.longnow.org/02017/06/07/how-can-we-create-a-manual-for-civilization/<br/>
+[How Can We Create a Manual For Civilization?](https://blog.longnow.org/02017/06/07/how-can-we-create-a-manual-for-civilization/)
+<br/>
 
 # Видеоматериалы и другие линки
 
-WoodlandsTV канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
+[WoodlandsTV](https://www.youtube.com/watch?v=aI8VWjpKBlA) канал археологов восстанавливающих техники средневековых мастеров по обработке дерева,
 созданию инструментов и т.д.<br/>
-https://www.youtube.com/watch?v=aI8VWjpKBlA
+
 
 ## Выживание off the grid в лесу
-Advoko MAKES 
-https://www.youtube.com/watch?v=war9v2DxMs4
+[Advoko MAKES](https://www.youtube.com/watch?v=war9v2DxMs4) 
+
 
 ## Механизмы и детали механизмов и станков из дерева.
-Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса сделанные из дерева.
-Matthias Wandel <br/>
-https://woodgears.ca/dust_collector/blower_build.html <br/>
+[Мииниатюрные модели больших систем вроде мельницы или нефтяного насоса сделанные из дерева.
+Matthias Wandel](https://woodgears.ca/dust_collector/blower_build.html) <br/>
 
-DIY 2-х скоростная коробка передач из фанеры <br/>
-https://youtu.be/dm7SSypMlzc?list=PLLByvpge6tCyN1QndbxJLfSuy1BpjqO4W
+[DIY 2-х скоростная коробка передач из фанеры](https://youtu.be/dm7SSypMlzc?list=PLLByvpge6tCyN1QndbxJLfSuy1BpjqO4W) <br/>
 
 ## Детали механизмов из металла
-Изготовление шестеренки. Mehamozg <br/>
-https://www.youtube.com/watch?v=59NucJ8TtqQ
+[Изготовление шестеренки. Mehamozg](https://www.youtube.com/watch?v=59NucJ8TtqQ) <br/>
 
 ## Музыкальные инструменты
-Barrel Organs Beware - Other Colour Pics Share This Title (1960)
-https://youtu.be/dHcmIcP7ouo?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE
-Street Organ how it works
-https://youtu.be/DSNAypbWe0g?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE
-
-
+[Barrel Organs Beware - Other Colour Pics Share This Title (1960)](https://youtu.be/dHcmIcP7ouo?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE)
+[Street Organ how it works](https://youtu.be/DSNAypbWe0g?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE)
 
 # Список книг (август 2021) 
 1. Origins_and_Development_of_Musical_Instruments_by_Jeremy_Montagu_(z-lib.org).pdf
