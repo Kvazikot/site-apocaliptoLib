@@ -177,6 +177,7 @@ make_list.py - обходит каталог электронной библио
 создает список pdf и epub документов <br/>
 
 # Сайты уже собравшие достаточно знания (~10000 книг) для перезапуска цивилизации 
+Нужно запросить у них этот список. Мне пока не удалось его найти среди блогов.
 [Blog Archive for the ‘Manual For Civilization’ Category](https://blog.longnow.org/category/manual-for-civilization/)<br/>
 
 https://blog.longnow.org/category/long-term-thinking/<br/>
