@@ -327,3 +327,4 @@ Matthias Wandel](https://woodgears.ca/dust_collector/blower_build.html) <br/>
 83. Doomsday_Preppers_A_Practical_Guide_for_the_Beginner_by_Stone,_James_G_(z-lib.org).epub
 84. Bit_by_Bit_An_Illustrated_History_of_Computers_by_Stan_Augarten_(z-lib.org).pdf
 85. The_knowledge_how_to_rebuild_our_world_from_scratch_by_Dartnell,_Lewis_(z-lib.org).epub
+86. Heather Heying & Bret Weinstein A Hunter-Gatherer's Guide to the 21st Century. 
