@@ -2,7 +2,7 @@
 Баранов Владимир vsbaranov83@gmail.com <br/>
 Дата создания документа: 30 августа 2021 года <br/>
 <br/>
-[Мой сайт на гугле.](https://script.google.com/macros/s/AKfycbz0aqkpdEQKaj4dkH7ume_hPS_eOnH7T5tXqvYcO_ovtyOk4m_zD3WOui4Nnm51wx8/exec)
+[Мой сайт на гугле.](https://script.google.com/macros/s/AKfycbwz0_HoePCzmFRg8ZVKuJ1RJg28zRxOBX8w_pvGB0dU_qv-ddohq4IX4JQ8EqBaGWY/exec?page=index.html)
 
 Цель проекта: Преодолеть Great Filter. Разработать устройство способное обучить будущие поколения, живущие после экзистенциальной катастрофы некоторым нашим технологиям или технологиям древних. 
 <br/>
