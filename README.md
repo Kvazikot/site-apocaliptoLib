@@ -9,6 +9,159 @@ Project goal: Overcome the Great Filter. To develop a device capable of teaching
 The apocaliptoLIB site is a continuation of the Time Capsule device project, which in turn was described in my story "Excavations of the Ancients" [Excavations of the Ancients] (https://github.com/Kvazikot/BallPark/wiki/%D0%A0%D0%B0% D1%81%D1%81%D0%BA%D0%B0%D0%B7-%22%D0%A0%D0%B0%D1%81%D0%BA%D0%BE%D0%BF%D0%BA %D0%B8-%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D1%85%22)
 Description of the time capsule project is here [Time-capsule](https://github.com/Kvazikot/BallPark/wiki/Time-capsule)
 
+# Time capsule
+
+Baranov Vladimir vsbaranov83@gmail.com <br/>
+Creation date: April 5, 2021
+
+Project goal: Overcome the Great Filter. To develop a device capable of teaching future generations living after an existential catastrophe some of our technologies or the technologies of the ancients.
+Ensure the safety of the device underground for a period of more than 100 years. It is possible to launch such a capsule into space at speeds approaching the speed of light with a return back. The sizes of underground capsules can vary up to the sizes of bunkers.
+This technology will allow you to get into a certain cycle of time and not commit suicide for an entire civilization.
+Arrange an international competition for the best device.
+Responsibility for the catastrophe lies equally with the countries of the block of the USSR and the USA.
+Since we have created satellite, nuclear weapons, they have created internet AI and so on. etc.
+All this was done in response to our actions and vice versa.
+Even if the Chinese are to blame for this particular pandemic, then for future disasters, perhaps part of the blame will fall on our country.
+Well, what's done is done. We must accept the state of reality in which we are at this point in time.
+
+### Rationale.
+Humanity may not survive the 21st century with a 50/50 chance, writes Martin Rees.
+But the plans of transhumanists are designed for a longer period. Even if we don't create our latest agi invention more powerful than a human by 2045 as Ray Kurzweil predicted - we may die from one of the existential risks (pandemic, nuclear war).
+If this happens, then the population will drop sharply, for example, with the onset of nuclear winter.
+Some fractions of a percent will survive in different places on the Earth.
+In thousands, and maybe even millions of years, the biosphere will recover, and the agrarian phase of civilization will begin.
+Already at this stage, information from the time capsule can greatly accelerate the technological progress of the society of the future.
+Accelerate the onset of the industrial phase.
+
+# Problems
+* The main problem: how to make the project profitable?
+* How to make chips that live much longer than modern ones?
+
+# Questions
+* How to restart civilization in a short time?
+* How to collect data on ancient technologies in a short time?
+* How to make a training video understandable to an uncivilized person?
+* How to teach the scientific method to someone with a medieval or savage mindset?
+* How to start a car engine using wood instead of gasoline?
+* How to reconstruct the calendar from an arbitrary point in the future? Know the exact date?
+* How to make paper from scratch and your own ink?
+* How to make a printing press?
+* How to make a wood or metal lathe using fewer modern tools?
+
+### Capsule hardware requirements
+  It is necessary that the microchips of the device be designed for a period of more than 30 years.
+Modern systems such as smartphones and home computers are designed for the consumer society.
+In which it is considered normal to change the gadget every 3 years.<br> In the case of computers, this period is no more than 20 years.
+The GPS system is tied to ground signals for synchronization and clocks. Therefore, gps navigation will not live long.
+The device needs chips that last much longer than modern ones. <br>
+It is necessary to ensure the safety of microcircuits, protect them from corrosion by maintaining a constant temperature, pressure,
+perhaps a vacuum, or at least a hermetic shell.<br>
+The prototype of the device can be made on the basis of an e-ink book with a solar battery connected.
+The memory of such an electronic book can contain thousands of the most important books for civilization.
+The problem of knowing the videos contained in zettabytes stored on youtube-like services.
+A book with e-ink can "read" a video if it is converted into asci codes.
+see Python program [ASCII-art-PIXEL-art](https://github.com/StanislavPetrovV/ASCII-art-PIXEL-art)
+
+**Built-in intelligence** Hardware support for reinforcement learning <br>
+**Power supply:** solar panels, nuclear battery. <br>
+**Triggers for powering the circuit (watchdog):** by atomic clock on a certain date, mechanical triggers by opening event are possible.<br>
+The presence of a radio beacon in the capsule. <br>
+**Network support:** Each pod must have its own unique IP address and be able to communicate with other pods over the air
+<br>
+
+# Communication time capsules with a base on Mars.
+A future option is possible in which the base on Mars will exist, and there will be no civilization on Earth.
+Then the dissemination of information to Mars that there is still someone left on Earth will cause feedback in 4-d space.
+
+# The revival of filmstrip technology
+By using the new synthetic media technology, it is possible to create Soviet films with other faces.
+In each new capsule, you can change the faces of the characters. For example, instead of Hypolite, put Monroe. Create a filmstrip from these GAN-updated films. And put in a capsule.
+
+### Fool-proof adjusted for average iq
+   On the capsule, you need to do some kind of access control with an intelligence test.
+To keep it from falling into the wrong hands. Those. without passing the test, a hard lock is enabled so that it cannot be dismantled, an anti-vandal case, etc. For example, a peasant can throw out or damage the main device and it will not get to the leader of the tribe.
+In general, it is quite scientific to assume that the average intelligence of people in a sample 1000 times smaller than the modern one will be less.
+Although the deviation from the mean may be greater than if you have 7 billion. population.
+It is also impossible to discard the possibility that the result of unplanned mutations from the background radiation
+will be the deterioration of cognitive abilities, which will be inherited for many generations to come.
+Considering the worst-case scenario, the intelligence test should not be very difficult.
+
+### What information should be included in the capsule?
+   It is necessary to represent all knowledge in symbolic form.
+In the form of pictures, video (animated gifs). The device must contain a learning program for learning English.
+At the first stage, basic information is collected from electronic encyclopedias such as Wikipedia. In books on engineering and construction.
+If you just print Wikipedia and put it in a capsule, there is a high probability that the savages of the future will burn it or use it to heat the body or something else and important information, precious knowledge will be lost. Therefore, it is important to reserve, the more time capsules, the better.
+   It is necessary to restore the lost technologies, for example, those that the Vikings used in construction
+boats (dracars) made of stone nails and stone tools. This knowledge is passed down from master to master through generations, and, surprisingly, they do not have Wikipedia pages. Another problem is that knowledge about how modern civilization works is distributed among a huge number of highly specialized people. For example, it takes at least 1,000 people to produce an ordinary pencil. None of these people know all the details of how a pencil is made in a factory.
+
+So-called "3rd world technologies" will fit here, for example, a pumping station based on a bicycle.
+Knowledge must be presented with an adjustment for the fact that the average iq will most likely be lower than the modern one.
+Therefore, the device should automatically select the material corresponding to the level of the user.
+
+# Contents of the capsule:
+* Mechanical models of various devices in miniature printed on a 3D printer.
+* A musical instrument like a miniature hurdy-gurdy with drawings by Escher
+* abacus, mechanical calculators
+* Some model of an electric motor and training models demonstrating the physical principles of electromagnetism (Faraday, Maxwell)
+* Mechanical engineering: engines, transmission, generators, windmills, [water wheel](https://en.wikipedia.org/wiki/Water_wheel), etc.
+* [mills](https://en.wikipedia.org/wiki/Windmill)
+* Microfilms and a microscope for viewing them with an illustration of how to change microfilms.
+* Maps
+*WMAP
+* cryopreserved brains :)
+
+## List of technologies for compiling a training program
+0. How to make fire and why fire is needed.
+1. How to cook food on fire
+2. How to make a windmill
+3. How to plant wheat and process seeds in a mill
+4. A simple water disinfection method. Leave the plastic bottle in the sun.
+5. The rule that you can't throw your excrement into the river from which they take water.
+6. Production of weapons
+
+## List of tools.
+With instructions on how to make the tool. Testing Required
+1. Simple stone tools (stone nails, hammers)
+2. Tools for processing wood, stone, metal
+3. Glass production (lenses, flasks for chemical reactions)
+3. Medical instruments
+4. Agricultural tools
+5. Navigational instruments
+
+## Mini Time Capsule
+A mini time capsule with some kind of content, such as paper, can be made from a plastic bottle. Plastic has been around for over 500 years. Pack paper with the contents of a document or a message into the future in polyethylene. Thus. A flexible plastic bag is placed in a plastic bottle. Fold the paper from the notebook into a box in strips and gradually lower it into the bottle. The stripes will fill the space of the bottle. Optional: Make an origami in the form of a frog, a fish or a boat. Leave room for the stones. Throw the bottle into the sea, ocean or any nearby pond.
+
+### Calculation of the number of time capsules depending on the number of people and their distribution over the surface
+
+For the example of Africa
+Area 30,221,532 km² <br/>
+Population 1.3 billion (2020)<br/>
+Density 30.51 people/km² <br/>
+The length of the coastline of the African continent is 30,500 km. <br>
+If the population of Africa is 1.3 million, which corresponds to 3000 BC. e.
+then the population density will be 0.0430156 <br>
+This is one person for every 33 km. <br>
+If the area of ​​the capsule is 30 m², then the probability of finding it will be 1.5e-02 <br>
+In 10,000 years, this will increase the chances by N times and will be 100% <br>
+Total: 3 thousand capsules <br>
+With a construction speed of 19 days, the project could be completed in 89 years
+
+# Capsule examples
+*International Time Capsule Society
+*https://www.itcsoc.org/most-wanted-time-capsules
+* https://youtu.be/d9tNcboMwTE?list=PLcu6g4pkhOD5Fxn2qFk9dIVnAnl_jVhsE
+* https://360wiki.ru/wiki/List_of_time_capsules
+
+## Other materials
+* Plan of Action to Prevent Human Extinction Risks
+* https://turchin.livejournal.com/774258.html
+* Message in a Time Capsule by Stross Charles
+* The Time Capsule by McDaniel Lurlene
+* The knowledge: how to rebuild our world from scratch Dartnell, Lewis
+* The knowledge | Lewis Dartnell | Talks at Google https://youtu.be/EdRV8ccyEE0
+* [Global Village Construction Set](https://www.opensourceecology.org/gvcs/)
+
+
 # Site apocalyptoLIB
 Project goal: Overcome the Great Filter. To develop a device capable of teaching future generations living after an existential catastrophe some of our technologies or the technologies of the ancients.
 
@@ -131,10 +284,6 @@ Thus, only useful information remains in the cloud.
 The rest of the posts eventually turn into an absolutely chaotic set of characters.
 We hope that there will be friendly robots in the context of the entire text or discussion threads on the forum will restore the original text.
 
-## Kriteriy otsenki uspeshnosti proyekta Yesli na sayt pridut kakoy-to protsent umnykh lyudey s podkhodyashchim obrazovaniyem gotovykh sotrudnichat' v ramkakh apokalipto lib ya budu schitat' eto uzhe pervoy pobedoy. Daleye my organizuyem konferentsiyu vo frinete, bastione ili drugoy detsentralizovannoy p2p seti (diskort soglasno istochniku https://digdeeper.neocities.org/ sobirayet informatsiyu o telefone i delayet drugiye pakosti). Yeshche raz povtoryus' chto zadacha netrivial'naya, trebuyushchego otdel'nogo napravleniya v issledovaniyakh - perezapusk tsivilizatsii posle kollapsa. Zdes' nuzhno skompilirovat' znaniye o tom kak rabotayet vsya tsivilizatsiya primerno kak sdelal L'yuis Dartnell (The knowledge how to rebuild our world from scratch) i pereobuchit' mnogikh lyudey. Pererabotat' knizhki, vossozdat' staryye tekhnologii i tselyye promyshlennosti. Organizovat' avtonomnyye srednevekovyye gil'dii zhivushchiye pochti bez elektroseti. Izuchit' eti soobshchestva zhivushchiye vne bol'shikh gorodov khotya by neskol'ko let s tochki zreniya psikhologii, kak lyudi budut adaptirovat'sya. Eto ochen' bol'shaya nauchnaya i inzhenernaya rabota. Yesli my ne khotim vnezapno okazat'sya u razbitogo koryta - nado nachinat' uzhe segodnya. Nuzhno budet sozdavat' novyye produkty i kak inzhenery razrabatyvayushchiye produkt dlya massovogo rynka ispytyvat' ikh "v dikoy prirode". Nakhodit' nedostatki, ispravlyat' dokumentatsiyu, pereizdavat' knigi. ## Sistema moderatsii V mire apokalipsisa budet anarkhiya. Eto znachit nikakogo gos apparata ili politsii. Vas nikto ne smozhet zashchitit' yesli vy slabyy i ne mozhete zashchitit' sebya sami. Preimushchestvo demokratii i deanonimizatsii v tom chto vy mozhete prisvoit' uslovnyye avtoritety uchastnikam nauchnogo diskursa. No v printsipe eto i tak budet yasno na urovne laykov postov. To yest' v ideale dazhe razrabotchik ili tak nazyvayemyy administrator sistemy ne mozhet udalit' informatsiyu iz seti. Kak tol'ko vy poteryali svoy post id (16 znachnyy nomer posta) vy poteryali vozmozhnost' udalit informatsiyu iz gologramy. Nikto ne smozhet udalit' vash post, dazhe administrator seti. Yedinstvennoye chto oni mogut sdelat' eto zablokirovat' dostup vsem u kogo vydeleno mesto na gugl diske, prichem sdelat' eto smozhet tol'ko kompaniya gugl i to cherez dolgiye sudebnyye protsessy. V takom sluchaye lyazhet vsya biblioteka srazu. My vse pomnim tot den' kogda mikki maus i vse yego posty byli nespravedlivo udaleny iz tvittera Eto dolzhno dostigat'sya osoboy kodirovkoy tekstovogo fayla rabotayushchey tol'ko v otobrazhenii mnogomernoy matematicheskoy funktsii. ## Fichi Layknut' knigu, layknut' post, dizlayknut' post. Koroche ideya realizovat' stackoverflow spetsial'no Dlya apocaliptoLIB Forum organizovan v vide voprosov s golosovaniyem za luchshiye resheniya. Yeshche mozhno posmotret' kak realizovana quora, stackexchange, mail.ru voprosy. Mozhet byt' mozhno vstroit' voprosy s platformy quora vnutr' svoyego sayta. No osnovnaya ideya foruma eto kriticheskiy analiz materialov biblioteki. Potom uzhe idet organizatsiya tur-pokhodov, kom'yuniti survalistov i t.p. Vokrug etogo mozhno reklamirovat' vsyakiye tovary dlya vyzhival'shchikov. # Dizayn biblioteki. Biblioteka dolzhna predostavlyat' dostup k knige pryamo v onlayne. Knopka vzyat' knigu \ otdat' knigu Pri zhelanii pol'zovatelya yesli on prochitayet dlinnyy diskleymer i soglasit'sya so vsemi usloviyami yemu poyavlyayetsya link na pryamoy dostup k pdf-skanu knigi. Original'nyye knigi lezhat na krupneyshey elektronnoy biblioteke z-lib.org Prosmotrshchik ksoderzhimogo knig sdelan so spets effektami. V mestakh zhiznenno vazhnoy infy naprimer kak dezinfitsirovat' vodu ili kak rasvesti ogon' primenyayetsya motion blur s raznoy stepen'yu razmytiya. Chtoby otklyuchit' effekt nado prochitat' dolgiy diskleymer pro avtorskiye prava i reshit' prostuyu golovolomku. (Tetravex, tic tac toe, golovolomka tipa soyedeni vodoprovod ili elektricheskuyu tsep') Mozhno sdelat' chto-to vrode virtual'noy 3d biblioteki s vintovoy lestnitsey. Pol'zovatel' mozhet peremeshchat'sya kak v nastoyashchey biblioteke i vybimrat' knigi. Na etom etape planiruyetsya podklyuchit' vse moshchnyye moshchnosti skriptkidi web gl
-Ещё
-3 941 / 5 000
-Результаты перевода
 ## Criteria for assessing the success of the project
 If a certain percentage of smart people with a suitable education come to the site and are ready to cooperate within the framework of the apocalypto, either I will consider this the first victory. Next, we organize a conference on a freenet, bastion, or other decentralized p2p network (discord, according to the source https://digdeeper.neocities.org/, collects information about the phone and does other dirty tricks). I repeat once again that the task is not trivial, requiring a separate direction in research - restarting civilization after a collapse. Here you need to compile the knowledge about how the whole civilization works, something like Lewis Dartnell did (The knowledge how to rebuild our world from scratch) and retrain many people. Recycle books, recreate old technologies and entire industries. Organize autonomous medieval guilds living almost without electricity. To study these communities living outside the big cities for at least a few years in terms of psychology, how people will adapt. This is a very large scientific and engineering work. If we do not want to suddenly find ourselves with a broken trough, we must start today. It will be necessary to create new products and, like engineers developing a product for the mass market, test them "in the wild." Find flaws, fix documentation, republish books.
 
@@ -180,6 +329,7 @@ At this stage, it is planned to connect all the powerful powers of web gl script
 | --- | --- |
 | pages_preview.py | The script bypasses the project tree, selects pdf, epub files and saves individual pages of these documents in jpeg format in the images directory to directories with latinized names. For example, images/{transliterated_filename.pdf} |
 | make_list.py | bypasses the catalog of the electronic library, creates a list of pdf and epub documents |
+
 
 # Sites that have already collected enough knowledge (~10000 books) to restart civilization
 You need to ask them for this list. I haven't been able to find it in the blogs yet.<br/>
