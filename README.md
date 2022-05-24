@@ -6,7 +6,7 @@ Document creation date: August 30, 2021<br/>
 
 Project goal: Overcome the Great Filter. To develop a device capable of teaching future generations living after an existential catastrophe some of our technologies or the technologies of the ancients.
 <br/>
-The apocaliptoLIB site is a continuation of the Time Capsule device project, which in turn was described in my story "Excavations of the Ancients" [Excavations of the Ancients] (https://github.com/Kvazikot/BallPark/wiki/%D0%A0%D0%B0% D1%81%D1%81%D0%BA%D0%B0%D0%B7-%22%D0%A0%D0%B0%D1%81%D0%BA%D0%BE%D0%BF%D0%BA %D0%B8-%D0%B4%D1%80%D0%B5%D0%B2%D0%BD%D0%B8%D1%85%22)
+The apocaliptoLIB site is a continuation of the Time Capsule device project, which in turn was described in my story "Excavations of the Ancients" [Excavations of the Ancients] (https://github.com/Kvazikot/BallPark/wiki/Artefacts-of-the-ancients)
 Description of the time capsule project is here [Time-capsule](https://github.com/Kvazikot/BallPark/wiki/Time-capsule)
 
 # Time capsule
